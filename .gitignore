@@ -7,6 +7,11 @@
 *.pm.tdy
 *.bs
 
+
+# Carton
+/local/
+cpanfile.snapshot
+
 # Devel::Cover
 cover_db/
 
